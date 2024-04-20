@@ -7,3 +7,6 @@ https://www.upesy.com/blogs/tutorials/rotary-encoder-esp32-on-micro-python
 https://github.com/miketeachman/micropython-rotary/
 
 https://github.com/diepala/wicope
+
+https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/
+https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
