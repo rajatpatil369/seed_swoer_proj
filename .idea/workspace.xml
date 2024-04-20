@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1ab74e7-b10b-4257-a335-7f1f8ea65099" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/MicroPython.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/seed_sower_proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ESP32_GENERIC-20240222-v1.22.2.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/esp32_gpio_lcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcd_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/ESP32-Pinout.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/HD44780 16x2 LCD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/esp32 priority pins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/hcw-p715 DC to DC converter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/irfz44n pinout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/preset pinout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/rotary encoder pinout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pinouts and datasheets/uln2003 pinout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rotary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rotary_irq_esp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tank_level/tank_level.ino" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wicope/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wicope/firmware.ino" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/esp32_gpio_lcd.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/lcd_api.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/rotary.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/rotary_irq_esp.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MicroPythonDevices" devicePath="COM5" autoDetectDevicePath="false" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dzjHWH9qSm0IFrkUmgEKw1oNmS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;MicroPython.Flash main.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Flash main.py" type="MicroPythonConfigurationType" factoryName="MicroPython" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/main.py" runReplOnSuccess="no">
+      <module name="seed_sower_proj" />
+      <method v="2">
+        <option name="MicroPython.StopREPL.Before.Run" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="MicroPython.Flash main.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1ab74e7-b10b-4257-a335-7f1f8ea65099" name="Changes" comment="" />
+      <created>1711017713570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711017713570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

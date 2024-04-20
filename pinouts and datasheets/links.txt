@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=LY-1DHTxRAk
+https://drive.google.com/file/d/1gbKM7DA7PI7s1-ne_VomcjOrb0bE2TPZ/view
+
+https://github.com/dhylands/python_lcd
+
+https://www.upesy.com/blogs/tutorials/rotary-encoder-esp32-on-micro-python
+https://github.com/miketeachman/micropython-rotary/
+
+https://github.com/diepala/wicope
